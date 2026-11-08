@@ -1,0 +1,15 @@
+# Go 编译产物
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE 配置
+.idea/
+.vscode/
+
+# 运行时数据
+week_06_web/data/
